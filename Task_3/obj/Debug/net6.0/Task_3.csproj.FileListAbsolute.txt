@@ -1,0 +1,15 @@
+D:\Катя\Учеба\Менеджер ИТ проектов\Семинары\С#\Seminar_9\Task_3\bin\Debug\net6.0\Task_3.exe
+D:\Катя\Учеба\Менеджер ИТ проектов\Семинары\С#\Seminar_9\Task_3\bin\Debug\net6.0\Task_3.deps.json
+D:\Катя\Учеба\Менеджер ИТ проектов\Семинары\С#\Seminar_9\Task_3\bin\Debug\net6.0\Task_3.runtimeconfig.json
+D:\Катя\Учеба\Менеджер ИТ проектов\Семинары\С#\Seminar_9\Task_3\bin\Debug\net6.0\Task_3.dll
+D:\Катя\Учеба\Менеджер ИТ проектов\Семинары\С#\Seminar_9\Task_3\bin\Debug\net6.0\Task_3.pdb
+D:\Катя\Учеба\Менеджер ИТ проектов\Семинары\С#\Seminar_9\Task_3\obj\Debug\net6.0\Task_3.csproj.AssemblyReference.cache
+D:\Катя\Учеба\Менеджер ИТ проектов\Семинары\С#\Seminar_9\Task_3\obj\Debug\net6.0\Task_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Катя\Учеба\Менеджер ИТ проектов\Семинары\С#\Seminar_9\Task_3\obj\Debug\net6.0\Task_3.AssemblyInfoInputs.cache
+D:\Катя\Учеба\Менеджер ИТ проектов\Семинары\С#\Seminar_9\Task_3\obj\Debug\net6.0\Task_3.AssemblyInfo.cs
+D:\Катя\Учеба\Менеджер ИТ проектов\Семинары\С#\Seminar_9\Task_3\obj\Debug\net6.0\Task_3.csproj.CoreCompileInputs.cache
+D:\Катя\Учеба\Менеджер ИТ проектов\Семинары\С#\Seminar_9\Task_3\obj\Debug\net6.0\Task_3.dll
+D:\Катя\Учеба\Менеджер ИТ проектов\Семинары\С#\Seminar_9\Task_3\obj\Debug\net6.0\refint\Task_3.dll
+D:\Катя\Учеба\Менеджер ИТ проектов\Семинары\С#\Seminar_9\Task_3\obj\Debug\net6.0\Task_3.pdb
+D:\Катя\Учеба\Менеджер ИТ проектов\Семинары\С#\Seminar_9\Task_3\obj\Debug\net6.0\Task_3.genruntimeconfig.cache
+D:\Катя\Учеба\Менеджер ИТ проектов\Семинары\С#\Seminar_9\Task_3\obj\Debug\net6.0\ref\Task_3.dll
